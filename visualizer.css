@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#mp3-player {
+    width: 100px;
+    height: 30px;
+    float: left;
+}
+
+#mp3-player canvas {
+    width: 100px;
+    height: 30px;
+}
+
+#credits {
+    height: 30px;
+    float: left;
+    padding-top: 9px;
+    padding-left: 9px;
+    box-sizing: border-box;
+    color: #7f8c8d;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+a:hover {
+    color: #2980b9;
+}
